@@ -19,12 +19,12 @@ The purpose of this project is to combind the three python files into one workin
 
 # Objective Check List
 - [x] Create a git repository 
-- [ ] Create a README file
-- [ ] Create a Contributing file
-- [ ] Upload a side project
+- [x] Create a README file
+- [x] Create a Contributing file
+- [x] Upload a side project
 - [ ] Find two teammates
 - [ ] Determin what job each person will play
-- [ ] Add one teammate as contributer
+- [x] Add one teammate as contributer
 - [ ] Have one create a pull request
 - [ ] Have the teammates edit the files in the git respository
 - [ ] Have the teammates play their part
