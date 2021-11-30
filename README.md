@@ -9,6 +9,12 @@ This git repository will contain five files
 4. A Python code called "etchasketchv2.py"
 5. A Python code called "Lab2_functions.py"
 
+# Licenses
+This is a work in progress
+
+# Purpose
+The purpose of this project is to combind the three python files into one working game of snake.
+
 # Objective Check List
 - [x] Create a git repository 
 - [ ] Create a README file
