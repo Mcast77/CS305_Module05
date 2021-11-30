@@ -12,7 +12,7 @@ This git repository will contain five files
 5. A Python code called "Lab2_functions.py"
 
 # Licenses
-This is a work in progress
+Licensed under the MIT license.
 
 # Purpose
 The purpose of this project is to combind the three python files into one working game of snake.
