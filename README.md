@@ -1,7 +1,6 @@
 # CS305_Module05
 This is the assignment for the fifth module of cs305.
 
-## This is dpg9's contribution to the README file
 
 # Contains 
 This git repository will contain five files
@@ -24,7 +23,7 @@ The purpose of this project is to combind the three python files into one workin
 - [x] Upload a side project
 - [ ] Find two teammates
 - [ ] Determin what job each person will play
-- [x] Add one teammate as contributer
+- [ ] Add one teammate as contributer
 - [ ] Have one create a pull request
 - [ ] Have the teammates edit the files in the git respository
 - [ ] Have the teammates play their part
