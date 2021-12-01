@@ -29,3 +29,6 @@ The purpose of this project is to combind the three python files into one workin
 - [ ] Have the teammates play their part
 - [ ] Repeate the last five steps for the other members' respository
 - [ ] Finish Module ~~four~~ Five
+
+#Change made by collaborator Nathan Chan 
+For our next module in our project we will steal the moon 
