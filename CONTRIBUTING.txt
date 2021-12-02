@@ -1,2 +1,3 @@
 
 Hello from Nathan, these are my changes for my collaboration.
+Evan Palmisano changes for CONTRIBUTING.txt
