@@ -29,3 +29,7 @@ The purpose of this project is to combind the three python files into one workin
 - [ ] Have the teammates play their part
 - [ ] Repeate the last five steps for the other members' respository
 - [ ] Finish Module ~~four~~ Five
+
+
+# Changes
+This change was made for CS305 Module 5 - Nathan Chan
