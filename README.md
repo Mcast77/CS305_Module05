@@ -32,3 +32,9 @@ The purpose of this project is to combind the three python files into one workin
 
 #Change made by collaborator Nathan Chan 
 For our next module in our project we will steal the moon 
+
+# This edit was made by Evan Palmisano
+- [ ] Develop plan to steal the moon
+- [ ] Aquire resources needed for said plan
+- [ ] Execute plan flawlessly without any hiccups
+- [ ] Overcome any inevitable hiccups
