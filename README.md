@@ -30,7 +30,7 @@ The purpose of this project is to combind the three python files into one workin
 - [ ] Repeate the last five steps for the other members' respository
 - [ ] Finish Module ~~four~~ Five
 
-#Change made by collaborator Nathan Chan 
+# Change made by collaborator Nathan Chan 
 For our next module in our project we will steal the moon 
 
 # This edit was made by Evan Palmisano
